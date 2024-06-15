@@ -16,7 +16,7 @@ html, body {
 #container{
     width: 15rem;
     height: 20rem;
-    background: #cacaca;
+    background: #e3e3e3;
     box-shadow: 0 0 50px #fff;
     position: relative;
     overflow: hidden;
@@ -26,11 +26,11 @@ html, body {
     border-radius: 10px;
 }
 #mover{
-    width: 12rem;
-    height: 12rem;
-    background: #007bb4;
+    width: 14rem;
+    height: 14rem;
+    background: #ff0000;
     border-radius: 50%;
-    filter: blur(5px) drop-shadow(0 0 25px #004eb4b2);
+    filter: blur(5px) drop-shadow(0 0 25px #ff0000b2);
     position: absolute;
     top: 50%;
     left: 50%;
